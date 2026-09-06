@@ -21,7 +21,7 @@ CMAKE_ARGS+=	-DCMAKE_DEBUG_POSTFIX=""
 USE_GITHUB=	yes
 GH_ACCOUNT=	breakingthings
 GH_PROJECT=	libdigidocpp
-GH_TAGNAME=	6e64cec
+GH_TAGNAME=	104c77a
 
 .if !defined(WITH_DEBUG)
 PLIST_SUB+=	DEBUG=""
