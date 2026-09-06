@@ -1,0 +1,10 @@
+bin/web-eid
+share/applications/web-eid.desktop
+share/icons/hicolor/128x128/apps/web-eid.png
+share/icons/hicolor/32x32/apps/web-eid.png
+share/icons/hicolor/256x256/apps/web-eid.png
+share/icons/hicolor/512x512/apps/web-eid.png
+lib/mozilla/native-messaging-hosts/eu.webeid.json
+etc/chromium/native-messaging-hosts/eu.webeid.json
+etc/opt/chrome/native-messaging-hosts/eu.webeid.json
+

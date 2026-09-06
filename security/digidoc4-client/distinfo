@@ -1,0 +1,7 @@
+TIMESTAMP = 1788632324
+SHA256 (open-eid-DigiDoc4-Client-v4.11.1_GH0.tar.gz) = fcac43bbb3029e2de2476c2dedf8e46d6edf47fd437f71e035ac0d712cfc1915
+SIZE (open-eid-DigiDoc4-Client-v4.11.1_GH0.tar.gz) = 3560377
+SHA256 (open-eid-qt-common-f748156_GH0.tar.gz) = c09d611147bff20d6c2a9dfce3fe5b95bc2536b65833fb26805b195c2e0bddba
+SIZE (open-eid-qt-common-f748156_GH0.tar.gz) = 106932
+SHA256 (open-eid-libcdoc-83408f9_GH0.tar.gz) = 317b902c7ed6e5a790eaee41fcf0d759f734f56a67ace8268df341c2134329fa
+SIZE (open-eid-libcdoc-83408f9_GH0.tar.gz) = 473133
